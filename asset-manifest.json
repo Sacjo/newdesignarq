@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/newdesignarq/static/css/main.2f8a5e4a.css",
+    "main.js": "/newdesignarq/static/js/main.644b46b6.js",
+    "static/media/bg01.png": "/newdesignarq/static/media/bg01.0111e24403667572e028.png",
+    "static/media/nro5.png": "/newdesignarq/static/media/nro5.b3b6989b30a0d6d85879.png",
+    "static/media/nro3.png": "/newdesignarq/static/media/nro3.14fb237ca1e65e4bf208.png",
+    "static/media/nro2.png": "/newdesignarq/static/media/nro2.f0687e15aefb3115d985.png",
+    "static/media/nosotros.jpg": "/newdesignarq/static/media/nosotros.9d7de8d0f90515da2ddb.jpg",
+    "static/media/zara1.png": "/newdesignarq/static/media/zara1.7f1dc6f2ff552e2cc7b6.png",
+    "index.html": "/newdesignarq/index.html",
+    "main.2f8a5e4a.css.map": "/newdesignarq/static/css/main.2f8a5e4a.css.map",
+    "main.644b46b6.js.map": "/newdesignarq/static/js/main.644b46b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f8a5e4a.css",
+    "static/js/main.644b46b6.js"
+  ]
+}

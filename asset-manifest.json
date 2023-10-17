@@ -1,19 +1,40 @@
 {
   "files": {
-    "main.css": "/newdesignarq/static/css/main.2f8a5e4a.css",
-    "main.js": "/newdesignarq/static/js/main.644b46b6.js",
-    "static/media/bg01.png": "/newdesignarq/static/media/bg01.0111e24403667572e028.png",
-    "static/media/nro5.png": "/newdesignarq/static/media/nro5.b3b6989b30a0d6d85879.png",
-    "static/media/nro3.png": "/newdesignarq/static/media/nro3.14fb237ca1e65e4bf208.png",
-    "static/media/nro2.png": "/newdesignarq/static/media/nro2.f0687e15aefb3115d985.png",
-    "static/media/nosotros.jpg": "/newdesignarq/static/media/nosotros.9d7de8d0f90515da2ddb.jpg",
-    "static/media/zara1.png": "/newdesignarq/static/media/zara1.7f1dc6f2ff552e2cc7b6.png",
-    "index.html": "/newdesignarq/index.html",
-    "main.2f8a5e4a.css.map": "/newdesignarq/static/css/main.2f8a5e4a.css.map",
-    "main.644b46b6.js.map": "/newdesignarq/static/js/main.644b46b6.js.map"
+    "main.css": "/static/css/main.2f29c6d9.css",
+    "main.js": "/static/js/main.b4dab328.js",
+    "static/media/celina.png": "/static/media/celina.bbc837c14db8f89781ee.png",
+    "static/media/seidhom.png": "/static/media/seidhom.0b4f5c6a4729297eee42.png",
+    "static/media/bg01.png": "/static/media/bg01.0111e24403667572e028.png",
+    "static/media/clau.png": "/static/media/clau.ff76001eb1004e724a9b.png",
+    "static/media/weber.jpg": "/static/media/weber.f474fd61dc3f53dab50e.jpg",
+    "static/media/geraldine.jpg": "/static/media/geraldine.c342457cdeb3a25e87eb.jpg",
+    "static/media/MostradorPiscinasdeleste.jpg": "/static/media/MostradorPiscinasdeleste.12efccccfe20bc5d7736.jpg",
+    "static/media/clasica.jpg": "/static/media/clasica.f4542af8ecfa74c3161a.jpg",
+    "static/media/QuinchoDani.jpg": "/static/media/QuinchoDani.103500cf5508aea4d9b3.jpg",
+    "static/media/Dani.jpg": "/static/media/Dani.a3302d3698c4900aa627.jpg",
+    "static/media/nosotros.jpg": "/static/media/nosotros.87d8c889b33c9094d443.jpg",
+    "static/media/UtexSport.jpg": "/static/media/UtexSport.bb2f1e6e967e4cf9c050.jpg",
+    "static/media/Geraldine.jpg": "/static/media/Geraldine.6e967e25baf49aec03d9.jpg",
+    "static/media/TiendaOndazul.jpg": "/static/media/TiendaOndazul.1f5b542ddf4c18868576.jpg",
+    "static/media/Weber.jpg": "/static/media/Weber.73dc1c41d4a4cfb24624.jpg",
+    "static/media/CocinaDani.jpg": "/static/media/CocinaDani.d3dda8f3382b2d2dc163.jpg",
+    "static/media/piscinas.jpg": "/static/media/piscinas.a78dcf77900d066dbba7.jpg",
+    "static/media/DormitorioCA.jpg": "/static/media/DormitorioCA.ac80b3243e60de73c6ac.jpg",
+    "static/media/CafeteriaHernandarias.jpg": "/static/media/CafeteriaHernandarias.f4592d0fbb9f052ebf18.jpg",
+    "static/media/SaladeEstarCA.jpg": "/static/media/SaladeEstarCA.4e0bce6e492fd31842a0.jpg",
+    "static/media/PaneldeTvCA.jpg": "/static/media/PaneldeTvCA.b1c6119e1bda23b8d2d8.jpg",
+    "static/media/Campton.otf": "/static/media/Campton.2aa079c569d182b2ea73.otf",
+    "static/media/SaladeEstarDani.jpg": "/static/media/SaladeEstarDani.70510e9d368444f5e7cc.jpg",
+    "static/media/A5.jpg": "/static/media/A5.826907efce3a2507d802.jpg",
+    "static/media/corazon.png": "/static/media/corazon.866bef4b78b2a9e285ea.png",
+    "static/media/ondazul.png": "/static/media/ondazul.c7fe5c715f414501bf10.png",
+    "static/media/1306.png": "/static/media/1306.6e13491e01fc0d445918.png",
+    "index.html": "/index.html",
+    "main.2f29c6d9.css.map": "/static/css/main.2f29c6d9.css.map",
+    "main.b4dab328.js.map": "/static/js/main.b4dab328.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f8a5e4a.css",
-    "static/js/main.644b46b6.js"
+    "static/css/main.2f29c6d9.css",
+    "static/js/main.b4dab328.js"
   ]
 }
